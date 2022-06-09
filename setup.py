@@ -9,4 +9,5 @@ setup(
     author_email="gary.brandon@gmail.com",
     license="BSD",
     url="https://github.com/gazwald/finder",
+    packages=["finder"],
 )
